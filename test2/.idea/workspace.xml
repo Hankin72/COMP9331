@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57c7cdc7-8939-472d-a032-e76b0fa5ec3c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1wDST9oSNq5Lrdrj7DwjUWLzDlG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.sender_test">
+    <configuration name="receiver_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/receiver_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sender_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sender_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sender_test" />
+        <item itemvalue="Python.receiver_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57c7cdc7-8939-472d-a032-e76b0fa5ec3c" name="Default Changelist" comment="" />
+      <created>1627991671092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627991671092</updated>
+      <workItem from="1627991672457" duration="546000" />
+      <workItem from="1627995999507" duration="51000" />
+      <workItem from="1627996697302" duration="1099000" />
+      <workItem from="1628003607689" duration="69000" />
+      <workItem from="1628096145126" duration="154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2395" height="479" key="GridCell.Tab.0.bottom" timestamp="1628096298509">
+      <screen x="-470" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2395" height="479" key="GridCell.Tab.0.bottom/-1550.-1668.1080.1895/0.25.1440.828/-470.-1415.2560.1415@-470.-1415.2560.1415" timestamp="1628096298509" />
+    <state width="2395" height="479" key="GridCell.Tab.0.center" timestamp="1628096298508">
+      <screen x="-470" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2395" height="479" key="GridCell.Tab.0.center/-1550.-1668.1080.1895/0.25.1440.828/-470.-1415.2560.1415@-470.-1415.2560.1415" timestamp="1628096298508" />
+    <state width="2395" height="479" key="GridCell.Tab.0.left" timestamp="1628096298508">
+      <screen x="-470" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2395" height="479" key="GridCell.Tab.0.left/-1550.-1668.1080.1895/0.25.1440.828/-470.-1415.2560.1415@-470.-1415.2560.1415" timestamp="1628096298508" />
+    <state width="2395" height="479" key="GridCell.Tab.0.right" timestamp="1628096298509">
+      <screen x="-470" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2395" height="479" key="GridCell.Tab.0.right/-1550.-1668.1080.1895/0.25.1440.828/-470.-1415.2560.1415@-470.-1415.2560.1415" timestamp="1628096298509" />
+    <state width="2395" height="469" key="GridCell.Tab.1.bottom" timestamp="1627991725077">
+      <screen x="-470" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2395" height="469" key="GridCell.Tab.1.bottom/-1550.-1668.1080.1895/0.25.1440.828/-470.-1415.2560.1415@-470.-1415.2560.1415" timestamp="1627991725077" />
+    <state width="2395" height="469" key="GridCell.Tab.1.center" timestamp="1627991725075">
+      <screen x="-470" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2395" height="469" key="GridCell.Tab.1.center/-1550.-1668.1080.1895/0.25.1440.828/-470.-1415.2560.1415@-470.-1415.2560.1415" timestamp="1627991725075" />
+    <state width="2395" height="469" key="GridCell.Tab.1.left" timestamp="1627991725074">
+      <screen x="-470" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2395" height="469" key="GridCell.Tab.1.left/-1550.-1668.1080.1895/0.25.1440.828/-470.-1415.2560.1415@-470.-1415.2560.1415" timestamp="1627991725074" />
+    <state width="2395" height="469" key="GridCell.Tab.1.right" timestamp="1627991725076">
+      <screen x="-470" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2395" height="469" key="GridCell.Tab.1.right/-1550.-1668.1080.1895/0.25.1440.828/-470.-1415.2560.1415@-470.-1415.2560.1415" timestamp="1627991725076" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test2$receiver_test.coverage" NAME="receiver_test Coverage Results" MODIFIED="1628096275289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$sender_test.coverage" NAME="sender_test Coverage Results" MODIFIED="1628096276770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

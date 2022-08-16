@@ -1,0 +1,18 @@
+<msg_type>	<time>	<packet_type>	<seq>	<size>	<ack>
+rcv	1499.881	S	0	0	0
+snd	1499.945	SA	0	0	1
+rcv	1500.113	A	1	0	1
+rcv	1552.661	D	1	100	1
+snd	1552.734	A	1	0	101
+rcv	1645.106	D	101	30	1
+snd	1645.164	A	1	0	131
+rcv	1663.709	F	131	0	1
+snd	1663.984	A	1	0	132
+snd	1664.021	F	1	0	132
+=====================================================
+Amount of (original) Data Transferred (in bytes): 130
+Total Segments Received: 6
+Number of (original) Data Segments Received: 2
+Data segments with Bit errors: 0
+Number of duplicate segments received: 0
+Number of Duplicate Acknowledgements received: 0

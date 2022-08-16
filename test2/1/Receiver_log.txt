@@ -1,0 +1,17 @@
+rcv  7108.588  S     8 100     0
+snd  7109.588  SA   99   0     9
+rcv  7109.588  S     9 100   100
+rcv  7113.587  D     9 100   100
+snd  7113.587  A   100   0   109
+rcv  7113.587  D   109 100   100
+snd  7113.587  A   100   0   209
+rcv  7135.572  F   139 100   100
+snd  7135.572  A  100   0   140
+snd  7135.572  FA  100   0   140
+rcv  7136.571  A   140 100   101
+Amount of Data Received (bytes): 300
+Total segments received: 7
+Data segments received: 2
+Data Segments with bit errors: 0
+Duplicate data segments received: 0
+Duplicate Acks sent: 0

@@ -1,0 +1,20 @@
+snd  0.000  S     8   0     0
+rcv  1.000  SA   99 100     9
+snd  1.000  A     9   0   100
+snd  2.999  D     9 100   100
+snd  2.999  D   109  30   100
+rcv  24.984  A   100 100   109
+rcv  24.984  A   100 100   209
+snd  26.983  F   139   0   100
+snd  27.983  A   140   0   101
+Size of the file (in Bytes): 130
+Segments transmitted (including drop & RXT): 6
+Number of Segments handled by PLD: 2
+Number of Segments Dropped: 0
+Number of Segments Corrupted: 0
+Number of Segments Re-ordered: 0
+Number of Segments Duplicated: 0
+Number of Segments Delayed: 0
+Number of Retransmissions due to timeout: 0
+Number of Fast Retransmissions: 0
+Number of Duplicate Acknowledgements received: 0
